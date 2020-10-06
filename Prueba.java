@@ -4,5 +4,6 @@ public class Prueba {
 		
 		System.out.println("Cristobal Yarari Alipaz");
 		System.out.println("Santa Cruz, 1998");
+		System.out.println("Jimenez de Jamuz, Windows 10 pro");
 	}
 }
